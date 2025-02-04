@@ -1,6 +1,3 @@
-# ChatBot-RAG
-Implementation of RAG  
-=======
 # Chatbot with LLM and RAG
 
 This project is a chatbot application built with Next.js, utilizing Retrieval-Augmented Generation (RAG) for efficient question-answering. The backend is powered by a PostgreSQL database with a vector extension for enhanced data retrieval. A custom model from Ollama is used for both the generation and embedding phases.
