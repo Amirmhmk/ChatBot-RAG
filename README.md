@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ChatBot-RAG
 Implementation of RAG  
 =======
@@ -21,7 +20,7 @@ This chatbot is implemented based on the guide provided by [Vercel's RAG Chatbot
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Amirmhmk/ChatBot-RAG.git
 ```
 
 ### 2. Install Dependencies
